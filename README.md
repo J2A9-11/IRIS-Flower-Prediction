@@ -3,6 +3,13 @@
 
 This project classifies iris flowers into one of three species based on their features: **Setosa**, **Versicolor**, and **Virginica**. The classification is performed using a trained machine learning model and a user-friendly web interface created with Streamlit.
 
+
+## Key Highlights:
+
+- **Educational Purpose**: Ideal for beginners to understand the basics of machine learning, model training, and deployment.
+- **Deployment**: Fully deployed and accessible via a web interface, eliminating the need for local setup.
+- **Interactive Interface**: Simplifies the prediction process, making it accessible for users without technical expertise.
+
 ## Features
 
 - Interactive web-based interface for iris classification.
