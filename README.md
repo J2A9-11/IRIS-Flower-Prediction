@@ -19,7 +19,6 @@ Clone the repository using the following command:
 
 ```bash
 git clone https://github.com/J2A9-11/IRIS-Flower-Prediction.git
-cd IRIS-Flower-Prediction
 ```
 
 ### 2. Install Dependencies
@@ -56,7 +55,7 @@ You can also access the deployed application online at the following URL:
 
 ## Dataset
 
-The project uses the Iris dataset, which is publicly available and widely used for classification tasks.
+The project uses the Iris dataset, which is publicly available on Kaggle and widely used for classification tasks.
 
 ## Future Enhancements
 
